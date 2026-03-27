@@ -1,0 +1,22 @@
+# TP1-html-prpgramation-web-1
+DOCTYPE html>
+<html>
+    <head>
+        <title> mon emploi</title>
+    </head>
+    <body>
+        <h1> emploi de temps</h1>
+        <table border="3" style="width: 100%;">
+            <tr><th></th><th> lundi </th>
+                <th> mardi</th><th> mercredi</th><th> jeudi</th><th> vendredi</th><th> samedi</th></tr>
+            <tr><th>9:00-10:30</th><td>programation python 2cours</td><td>programation python tp/td G1</td><td></td><td>traitement du signal cours </td><td>algebre 2 cours </td><td></td></tr>
+            <tr><th>10:30-12:00</th><td> algorithme et programation C2 cours </td><td></td><td></td><td>traitement du signal td</td><td>analyse 2 cours </td><td></td></tr>
+            <tr><th>12:15-13:45</th><td></td><td>digital skills & intellegence artificiel</td><td></td><td></td><td></td><td></td></tr>
+            <tr><th>13:45-15:15</th><td>algorithme et programation c2 TD/TP groupe1</td><td>digital skills & intellegence artificiel TD/TP
+            TP/Td/<td>algorithme et programmatin c2 TD/TP groupe 2</td><td></td><td></td><td> programmation web 1 TD/TP groupe 2 </td></tr>
+            <tr><th>15:30-17:00</th><td>programmation python 2  TP/TD groupe 3 </td><td></td><td>algebre 2 TD</td><td></td><td></td><td> programmation web cours </td></tr>
+            <tr><th>17:00-18:30</th><td>programmation python 2 TD/TP groupe 2 </td><td></td><td>analyse 2 TD</td><td></td><td></td><td> programmation web TD/TP groupe 1</td></tr>
+            
+        </table>
+    </body>
+</html>
